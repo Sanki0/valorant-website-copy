@@ -64,7 +64,9 @@
 #speakers{
   background-color: beige;
 }
-
+.card-img-top{
+  height: 50%;
+}
 #maps {
   background-color: #343a40;
   color: white;
